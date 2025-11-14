@@ -1,0 +1,52 @@
+{
+  "icons": [
+    {
+      "name": "Linux",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg"
+    },
+    {
+      "name": "Red Hat",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/redhat.svg"
+    },
+    {
+      "name": "Docker",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kubernetes.svg"
+    },
+    {
+      "name": "Python",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg"
+    },
+    {
+      "name": "Java",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg"
+    },
+    {
+      "name": "JavaScript",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg"
+    },
+    {
+      "name": "Git",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
+    },
+    {
+      "name": "AWS",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg"
+    },
+    {
+      "name": "Azure",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftazure.svg"
+    },
+    {
+      "name": "Google Cloud",
+      "url": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg"
+    }
+  ]
+}
